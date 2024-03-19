@@ -7,5 +7,5 @@ var emailID=document.getElementById("email");
 // var alertValue=` First Name:${fname.value} Last Name:${lname.value} Phone Number: ${phoneNumber.value}Email ID: ${ emailID.value} ` ;
 
 function alertTable(){
-    alert("First Name:"+fname.value+ " Last Name:"+lname.value+" Phone Number:"+phoneNumber.value+ " Email ID:"+emailID.value);
+    alert("First Name: "+ fname.value+ " Last Name: "+ lname.value+" Phone Number: "+phoneNumber.value+ " Email ID: "+emailID.value);
 }
